@@ -1,10 +1,10 @@
 <div align="center">
 
-# 📄 PDF2MD Studio
-### 🚀 Unified Document Transformation Suite: PDF to High-Res Long Images & Clean Markdown from OCR
+# 📚 PDF to AI-Ready Markdown Studio
+### 🚀 PDF2MD Studio | Convert Textbook PDFs into Long Images + Prepare Free Google Docs OCR for ChatGPT & Claude
 
-[![Farsi README](https://img.shields.io/badge/Language-Persian%20%2F%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-emerald?style=for-the-badge&logo=translate&logoColor=white)](README.md)
 [![English README](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=google-translate&logoColor=white)](README_en.md)
+[![Farsi README](https://img.shields.io/badge/Language-Persian%20%2F%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-emerald?style=for-the-badge&logo=translate&logoColor=white)](README.md)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.9+" />
@@ -17,6 +17,11 @@
 ---
 
 </div>
+
+> ### ⚡ The Entire Workflow in 10 Seconds:
+> 1. **Drop your PDF into the app** ⬅️ It converts the pages into vertical, high-res continuous images under 2MB.
+> 2. **Open images in Google Docs** ⬅️ Google AI runs free, world-class OCR on Persian & English text. Download as DOCX.
+> 3. **Drop the DOCX back into the app** ⬅️ It cleans the OCR mess, fixes Persian typography (ZWNJ), and outputs immaculate, AI-ready Markdown (`.md`)!
 
 ## 🌟 Overview
 
