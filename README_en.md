@@ -29,6 +29,16 @@ Built with a sleek **CustomTkinter** interface, native **Drag & Drop** support, 
 
 ---
 
+## 🔄 The 3-Step AI Workflow (How it Works)
+
+Since traditional OCR for complex textbooks (especially Persian) is often expensive or highly inaccurate, PDF2MD Studio acts as a "bridge" to let you use Google's world-class OCR engine for free:
+
+1. **Phase 1 (The App):** You feed it your PDF textbook. The app smartly slices it into long vertical images, perfectly compressing them to stay just under Google's 2MB limit without blurring the text.
+2. **Phase 2 (The Google Bridge):** You upload those images to Google Drive, right-click, and select **"Open with Google Docs"**. Google's massive AI servers instantly scan the image and dump all the OCR text into a `.docx` file for you. You download those DOCX files.
+3. **Phase 3 (The App):** You drag those raw, messy DOCX files back into the app. The app goes to work stripping out the garbage, fixing the broken Persian typography (like adding proper half-spaces / نیم‌فاصله‌ها), detecting the headings, and exporting a pristine `.md` (Markdown) file ready for ChatGPT or Gemini.
+
+---
+
 ## ⚡ Key Features
 
 ### 🖼️ Step 1: PDF to Long Image Stitcher
